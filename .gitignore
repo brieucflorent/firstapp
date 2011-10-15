@@ -1,0 +1,15 @@
+*.DS_Store
+.project
+doc/
+*.swp
+*~
+.bundle
+.idea/*
+log/*
+tmp/*
+db/schema.rb
+db/*.sqlite3
+public/system
+coverage/*
+rerun.txt
+!.gitkeep
